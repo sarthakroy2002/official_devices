@@ -10,7 +10,7 @@
     "vendor": "Realme",
     "codename": "RMX2020",
     "codename_alt": "RMX2020",
-    "active": true,
+    "active": false,
     "version": "fifteen",
     "release": "monthly",
     "last_updated": "18 May 2025",

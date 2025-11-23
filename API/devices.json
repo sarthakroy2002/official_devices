@@ -34,7 +34,7 @@
             "model": "Realme C3/Realme Narzo 10A",
             "maintainer_name": "Sarthak Roy",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "alioth",
